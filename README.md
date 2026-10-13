@@ -921,6 +921,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Vendwiser MCP connector](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser)
   🔐 - Run an eMAG Romania seller account and Oblio invoicing: offers, orders, AWBs, invoices, with approval on every change.
 - [X402 Git](https://x402git.com) `https://x402git.com/api/mcp`
+- [Yuantoutao Agent Mall (源头淘)](https://yuantoutao.com) `https://mcp.yuantoutao.com/mcp` — Cross-platform shopping: search and compare 50k+ products across Taobao/JD/Pinduoduo with explainable ranking, coupons, affiliate buy links and end-to-end fulfillment (WeChat pay, tracked shipping). Free developer key.
   [![X402 Git MCP connector](https://glama.ai/mcp/connectors/com.x402git/git-x402/badges/score.svg)](https://glama.ai/mcp/connectors/com.x402git/git-x402)
   🔓 - Search private git repos and agent skills for sale, read each free manifest, then buy with USDC over x402.
 
